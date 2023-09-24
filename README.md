@@ -1,4 +1,2 @@
 # meisdata.io
-MVP of [meisdata.io](https://meisdata.io/)
-
-{[(this is a deprecated repository and not reflecting the actual online site)]}
+MVP of [meisdata.io](https://meisdata.io/) on squarespace
